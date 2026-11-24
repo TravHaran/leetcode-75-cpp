@@ -8,9 +8,8 @@ A structured collection of my **C++ solutions, written algorithm explanations, c
 
 A problem is considered complete only when:
 - The C++ solution is submitted and accepted on LeetCode.
-- `solution.cpp` contains the implementation.
+- `solution.cpp` contains the implementation along with unit test.
 - `notes.md` explains the idea, algorithm, time and space complexity, and edge cases.
-- `tests.cpp` contains meaningful test cases and documents how they were run.
 
 > The problem list follows the LeetCode 75 topic order. Problems link to LeetCode. This repository contains no copied LeetCode problem statements or provided solutions.
 
@@ -18,7 +17,7 @@ A problem is considered complete only when:
 
 ### Array and String (9)
 
-- [ ] **01.** [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) — [`problems/01-merge-strings-alternately/`](problems/01-merge-strings-alternately/)
+- [x] **01.** [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) — [`problems/01-merge-strings-alternately/`](problems/01-merge-strings-alternately/)
 - [ ] **02.** [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — [`problems/02-greatest-common-divisor-of-strings/`](problems/02-greatest-common-divisor-of-strings/)
 - [ ] **03.** [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) — [`problems/03-kids-with-the-greatest-number-of-candies/`](problems/03-kids-with-the-greatest-number-of-candies/)
 - [ ] **04.** [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) — [`problems/04-can-place-flowers/`](problems/04-can-place-flowers/)
@@ -165,7 +164,6 @@ leetcode-75-cpp/
 ├── templates/
 │   ├── solution.cpp           # Starter implementation file
 │   ├── notes.md               # Algorithm explanation template
-│   └── tests.cpp              # C++ test case template
 └── problems/
     ├── 01-merge-strings-alternately/
     │   └── README.md
@@ -176,20 +174,15 @@ leetcode-75-cpp/
 
 1. Open the next LeetCode problem from the checklist.
 2. Solve it independently in C++, and verify it on LeetCode.
-3. Copy the three templates into the matching problem directory, replacing the starter content with your actual solution, explanation, and test cases.
-4. For tests, either include a local adapter around the LeetCode `Solution` class or write an equivalent standalone harness. Compile with `-std=c++17 -Wall -Wextra -pedantic` and run; record how you validated the results.
-5. Mark the checklist item `[x]` and update the progress count.
-6. Commit: `git add . && git commit -m "Solve LC <number>: <problem>" && git push`.
-
-## Testing notes
-
-LeetCode supplies class signatures that vary by problem, so `tests.cpp` in `templates/` is a generic starting point rather than a ready-to-compile harness for every question. Adapt tests to the correct signature. For linked lists and binary trees, include the necessary local node definitions or helper factories. Avoid pasting full copyrighted problem statements into your notes.
+3. Copy the templates into the matching problem directory, replacing the starter content with your actual solution, explanation, and test cases.
+4. Mark the checklist item `[x]` and update the progress count.
+5. Commit: `git add . && git commit -m "Solve LC <number>: <problem>" && git push`.
 
 ## Interview goals
 
 - Recognize the algorithmic pattern and justify the data structure.
 - Explain correctness and edge cases out loud.
 - State tight time and auxiliary space complexity.
-- Write and test correct C++ code without relying on autocomplete.
+- Write and test clean & correct C++ code
 
 **Source:** [LeetCode 75](https://leetcode.com/studyplan/leetcode-75/). The checklist was cross-checked against a current public transcription of the study plan.
