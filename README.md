@@ -18,7 +18,7 @@ A problem is considered complete only when:
 ### Array and String (9)
 
 - [x] **01.** [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) — [`problems/01-merge-strings-alternately/`](problems/01-merge-strings-alternately/)
-- [ ] **02.** [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — [`problems/02-greatest-common-divisor-of-strings/`](problems/02-greatest-common-divisor-of-strings/)
+- [x] **02.** [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — [`problems/02-greatest-common-divisor-of-strings/`](problems/02-greatest-common-divisor-of-strings/)
 - [ ] **03.** [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) — [`problems/03-kids-with-the-greatest-number-of-candies/`](problems/03-kids-with-the-greatest-number-of-candies/)
 - [ ] **04.** [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) — [`problems/04-can-place-flowers/`](problems/04-can-place-flowers/)
 - [ ] **05.** [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) — [`problems/05-reverse-vowels-of-a-string/`](problems/05-reverse-vowels-of-a-string/)
