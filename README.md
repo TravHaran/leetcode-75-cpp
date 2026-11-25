@@ -4,7 +4,7 @@ A structured collection of my **C++ solutions, written algorithm explanations, c
 
 ## Progress
 
-**0 / 75 completed** — update this count as you finish problems.
+**5 / 75 completed** — update this count as you finish problems.
 
 A problem is considered complete only when:
 - The C++ solution is submitted and accepted on LeetCode.
@@ -21,7 +21,7 @@ A problem is considered complete only when:
 - [x] **02.** [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — [`problems/02-greatest-common-divisor-of-strings/`](problems/02-greatest-common-divisor-of-strings/)
 - [x] **03.** [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) — [`problems/03-kids-with-the-greatest-number-of-candies/`](problems/03-kids-with-the-greatest-number-of-candies/)
 - [x] **04.** [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) — [`problems/04-can-place-flowers/`](problems/04-can-place-flowers/)
-- [ ] **05.** [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) — [`problems/05-reverse-vowels-of-a-string/`](problems/05-reverse-vowels-of-a-string/)
+- [x] **05.** [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) — [`problems/05-reverse-vowels-of-a-string/`](problems/05-reverse-vowels-of-a-string/)
 - [ ] **06.** [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) — [`problems/06-reverse-words-in-a-string/`](problems/06-reverse-words-in-a-string/)
 - [ ] **07.** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — [`problems/07-product-of-array-except-self/`](problems/07-product-of-array-except-self/)
 - [ ] **08.** [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) — [`problems/08-increasing-triplet-subsequence/`](problems/08-increasing-triplet-subsequence/)
