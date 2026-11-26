@@ -4,7 +4,7 @@ A structured collection of my **C++ solutions, written algorithm explanations, c
 
 ## Progress
 
-**8 / 75 completed** — update this count as you finish problems.
+**9 / 75 completed** — update this count as you finish problems.
 
 A problem is considered complete only when:
 - The C++ solution is submitted and accepted on LeetCode.
@@ -25,7 +25,7 @@ A problem is considered complete only when:
 - [x] **06.** [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) — [`problems/06-reverse-words-in-a-string/`](problems/06-reverse-words-in-a-string/)
 - [x] **07.** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) — [`problems/07-product-of-array-except-self/`](problems/07-product-of-array-except-self/)
 - [x] **08.** [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) — [`problems/08-increasing-triplet-subsequence/`](problems/08-increasing-triplet-subsequence/)
-- [ ] **09.** [String Compression](https://leetcode.com/problems/string-compression/) — [`problems/09-string-compression/`](problems/09-string-compression/)
+- [x] **09.** [String Compression](https://leetcode.com/problems/string-compression/) — [`problems/09-string-compression/`](problems/09-string-compression/)
 
 ### Two Pointers (4)
 
