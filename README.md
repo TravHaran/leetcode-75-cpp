@@ -4,7 +4,7 @@ A structured collection of my **C++ solutions, written algorithm explanations, c
 
 ## Progress
 
-**10 / 75 completed** — update this count as you finish problems.
+**11 / 75 completed** — update this count as you finish problems.
 
 A problem is considered complete only when:
 - The C++ solution is submitted and accepted on LeetCode.
@@ -30,7 +30,7 @@ A problem is considered complete only when:
 ### Two Pointers (4)
 
 - [x] **10.** [Move Zeroes](https://leetcode.com/problems/move-zeroes/) — [`problems/10-move-zeroes/`](problems/10-move-zeroes/)
-- [ ] **11.** [Is Subsequence](https://leetcode.com/problems/is-subsequence/) — [`problems/11-is-subsequence/`](problems/11-is-subsequence/)
+- [x] **11.** [Is Subsequence](https://leetcode.com/problems/is-subsequence/) — [`problems/11-is-subsequence/`](problems/11-is-subsequence/)
 - [ ] **12.** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) — [`problems/12-container-with-most-water/`](problems/12-container-with-most-water/)
 - [ ] **13.** [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) — [`problems/13-max-number-of-k-sum-pairs/`](problems/13-max-number-of-k-sum-pairs/)
 
